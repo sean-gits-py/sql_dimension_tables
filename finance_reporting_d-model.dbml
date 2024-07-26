@@ -1,0 +1,67 @@
+--Financial Reporting
+--dbml code for designing data models
+
+// Tables for financial reports
+
+Table accounts {
+  id int [pk, increment]
+  account_name varchar(255)
+  account_type varchar(50) // e.g., Revenue, Expense, Asset, Liability, Equity
+  parent_account_id int [ref: > accounts.id] // for hierarchical account structures
+  created_at datetime
+  updated_at datetime
+}
+
+Table transactions {
+  id int [pk, increment]
+  account_id int [ref: > accounts.id]
+  transaction_date date
+  description varchar(255)
+  amount decimal(18, 2)
+  transaction_type varchar(10) // e.g., Debit, Credit
+  created_at datetime
+  updated_at datetime
+}
+
+Table budgets {
+  id int [pk, increment]
+  account_id int [ref: > accounts.id]
+  budget_period varchar(20) // e.g., 2024-Q1, 2024-M01
+  amount decimal(18, 2)
+  created_at datetime
+  updated_at datetime
+}
+
+Table actuals {
+  id int [pk, increment]
+  account_id int [ref: > accounts.id]
+  actual_period varchar(20) // e.g., 2024-Q1, 2024-M01
+  amount decimal(18, 2)
+  created_at datetime
+  updated_at datetime
+}
+
+Table profitability_analysis {
+  id int [pk, increment]
+  account_id int [ref: > accounts.id]
+  analysis_period varchar(20) // e.g., 2024-Q1, 2024-M01
+  revenue decimal(18, 2)
+  cost_of_goods_sold decimal(18, 2)
+  gross_profit decimal(18, 2)
+  operating_expenses decimal(18, 2)
+  net_profit decimal(18, 2)
+  created_at datetime
+  updated_at datetime
+}
+
+Table capex {
+  id int [pk, increment]
+  project_name varchar(255)
+  project_code varchar(50)
+  description varchar(255)
+  amount decimal(18, 2)
+  expenditure_date date
+  created_at datetime
+  updated_at datetime
+}
+
