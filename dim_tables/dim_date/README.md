@@ -1,15 +1,15 @@
 # Date Dimension
 
-<dim_date> is used to store and manage date-related information in a structured manner. Facilitates efficient querying and enables detailed time-based analysis in data warehouses. Provides a comprehensive set of date attributes (e.g., year, quarter, month, week, day) that ensure consistency and reduced redundancy across different reports and analyses.
+'dim_date' is used to store and manage date-related information in a structured manner. Facilitates efficient querying and enables detailed time-based analysis in data warehouses. Provides a comprehensive set of date attributes (e.g., year, quarter, month, week, day) that ensure consistency and reduced redundancy across different reports and analyses.
 
 
 ## 1.0 | Relationships and Keys
 
-### 1.1  | Primary Keys:
+#### 1.1  | Primary Keys:
 * 'date_key' is uniquely identifieable field.
 
-### 1.2  | Foreign Keys:
-* Nearly all <dim_date> fields can be used for joins and be used as foreign keys.
+#### 1.2  | Foreign Keys:
+* Nearly all 'dim_date' fields can be used for joins and be used as foreign keys.
   
 
 ## 2.0 | Data Dictionary
