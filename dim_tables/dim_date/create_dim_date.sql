@@ -1,4 +1,5 @@
 --Date Dimension
+----Creates Date Dimension table in postgres
 ----Script adapted from [https://gist.github.com/duffn/38449526e00abb47f4ec292f0491313d]
 
 DROP TABLE IF EXISTS dim_date;
