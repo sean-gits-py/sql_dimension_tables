@@ -65,10 +65,10 @@
           <mxGeometry x="740" y="70" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-29" value="Corp_Inventory" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="695" y="-360" width="90" height="50" as="geometry" />
+          <mxGeometry x="690" y="-390" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-30" value="Corp_Purchasing" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="585" y="-360" width="90" height="50" as="geometry" />
+          <mxGeometry x="690" y="-460" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-31" value="Transaction" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="55" y="260" width="90" height="50" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="690" y="190" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-33" value="State" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="730" y="250" width="80" height="50" as="geometry" />
+          <mxGeometry x="730" y="260" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-34" value="Product Type" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="130" y="720" width="90" height="50" as="geometry" />
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-42" value="Date" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="10" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O6WFtST-XG4hHvZRbEac-43" value="Corp_Location" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-530" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
