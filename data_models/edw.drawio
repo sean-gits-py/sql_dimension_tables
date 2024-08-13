@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.6">
   <diagram name="Conceptual-DM" id="KIrqLjhTBJLKY9A5fa0m">
-    <mxGraphModel dx="998" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
           <mxGeometry x="725" y="-240" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-27" value="Corp_Division" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-300" width="80" height="50" as="geometry" />
+          <mxGeometry x="690" y="-310" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-28" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="740" y="70" width="80" height="50" as="geometry" />
