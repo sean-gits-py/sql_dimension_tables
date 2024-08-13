@@ -4,34 +4,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O6WFtST-XG4hHvZRbEac-8" value="Product" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-8" value="Product" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="530" y="370" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-9" value="Organization" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-9" value="Organization" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-10" value="Person" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-10" value="Person" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="100" y="230" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-12" value="Contact" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-12" value="Contact" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-13" value="Account" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-13" value="Account" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-14" value="Location" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-14" value="Location" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="400" y="370" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-15" value="Person" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-15" value="Person" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="590" y="510" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-16" value="Categories" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-16" value="Categories" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="470" y="510" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-17" value="Brands" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-17" value="Brands" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="370" y="510" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-18" value="Manufacturers" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="O6WFtST-XG4hHvZRbEac-18" value="Manufacturers" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="250" y="510" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
