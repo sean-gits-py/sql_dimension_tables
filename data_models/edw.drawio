@@ -11,7 +11,7 @@
           <mxGeometry x="504" y="-130" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-10" value="Person" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="80" height="50" as="geometry" />
+          <mxGeometry x="250" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-12" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="350" y="130" width="80" height="50" as="geometry" />
