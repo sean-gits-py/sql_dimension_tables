@@ -1,6 +1,16 @@
-# Date Dimension Data Dictionary
+# Date Dimension
 
-The `dim_date` table provides a comprehensive date dimension for use in data warehousing. It contains various attributes that represent different aspects of a date, allowing for detailed temporal analysis.
+Used to store and manage date-related information in a structured manner. Facilitates efficient querying and enables detailed time-based analysis in data warehouses. Provides a comprehensive set of date attributes (e.g., year, quarter, month, week, day) that ensure consistency and reduced redundancy across different reports and analyses.
+
+## 1.0 | Relationships and Keys
+
+1.1 Primary Keys:
+* 'date_key' is uniquely identifieable field.
+  
+
+## Data Dictionary
+
+The `dim_date` table contains various attributes that represent different aspects of a date, allowing for detailed temporal analysis.
 
 | Column Name              | Data Type  | Description                                                                                                                                                             |
 |--------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
