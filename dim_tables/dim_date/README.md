@@ -6,7 +6,7 @@
 ## 1.0 | Relationships and Keys
 
 #### 1.1  | Primary Keys:
-* *date_key* is uniquely identifieable field.
+* date_key is uniquely identifiable field.
 
 #### 1.2  | Foreign Keys:
 * Nearly all *dim_date* fields can be used for joins and be used as foreign keys.
