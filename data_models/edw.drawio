@@ -377,13 +377,11 @@
         <mxCell id="O6WFtST-XG4hHvZRbEac-163" value="Bin" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.5;fontStyle=0;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1225" y="-320" width="43" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O6WFtST-XG4hHvZRbEac-165" target="O6WFtST-XG4hHvZRbEac-171">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1860" y="80.20000000000005" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="O6WFtST-XG4hHvZRbEac-171" value="&lt;font face=&quot;Times New Roman&quot;&gt;Predictive Modeling&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1678" y="250" width="122.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="O6WFtST-XG4hHvZRbEac-171" value="&lt;font face=&quot;Times New Roman&quot;&gt;Predictive&lt;br&gt;Modeling&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1875" y="29.59" width="90" height="60" as="geometry" />
+        <mxCell id="O6WFtST-XG4hHvZRbEac-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O6WFtST-XG4hHvZRbEac-165" target="O6WFtST-XG4hHvZRbEac-171">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O6WFtST-XG4hHvZRbEac-165" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="1648.5" width="181.5" height="120" as="geometry" />
